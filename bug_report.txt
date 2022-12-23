@@ -1,4 +1,4 @@
-bug_report
+# bug_report
 ID:номер
 summary:краткое описание
 description:полное описание
